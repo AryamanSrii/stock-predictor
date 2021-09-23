@@ -6,4 +6,5 @@ pandas_datareader
 matplotlib
 tensorflow
 datetime
+sklearn
 
