@@ -15,7 +15,7 @@ st.title('AmrevX Stock Predictor') #title
 user_input = st.text_input("Enter Ticker", 'AAPL') #place holder text
 df = data.DataReader(user_input, 'yahoo', start, end) #read the user input and search yahoo finance
 
-st.subheader(f'Data from 2005 - {end}') #last 10 year data
+st.subheader(f'Data from {start} - {end}') #last 10 year data
 st.write(df.describe())
 
 st.subheader('Closing Price vs Time chat') #heading of graph
