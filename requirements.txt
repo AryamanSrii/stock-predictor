@@ -3,4 +3,4 @@ pandas
 numpy 
 keras.models
 pandas_datareader
-matplotlib.pyplot
+matplotlib
