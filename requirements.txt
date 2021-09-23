@@ -4,3 +4,4 @@ numpy
 keras.models
 pandas_datareader
 matplotlib
+tensorflow
