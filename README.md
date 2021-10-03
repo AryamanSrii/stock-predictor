@@ -1,5 +1,5 @@
-# Stock Predictor
-In this project, we aim to make a stock predictor, only using python, which as the name suggests predicts the status of stocks in the market.
+# AmrevX Stock Predictor
+In this project, we aim to make a stock predictor, only using python, which as the name suggests predicts the status of stocks.
 
 ## Requirements
 * streamlit
