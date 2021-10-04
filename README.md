@@ -1,5 +1,6 @@
 # AmrevX Stock Predictor
-In this project, we aim to make a stock predictor, only using python, which as the name suggests predicts the status of stocks.
+Stock Predictor made using Long Short Term Memory Loss and Python
+
 
 ## Requirements
 * streamlit
